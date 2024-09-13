@@ -1,2 +1,2 @@
 # react-base-ds
-Proyecto React base para la cátedra Desarrollo de Software
+Proyecto React (+ Vite) base para la cátedra Desarrollo de Software
