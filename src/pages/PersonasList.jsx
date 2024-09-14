@@ -15,7 +15,7 @@ const PersonasList = () => {
     return (
         <div style={{width: "100%"}}>
             <h2>Personas</h2>
-            <Link to="/add-persona">Nueva Persona</Link>
+            <Link to="/personas/add">Nueva Persona</Link>
             <table style={{border: "1px solid white", maxWidth: "100%"}}>
                 <thead>
                     <tr>
